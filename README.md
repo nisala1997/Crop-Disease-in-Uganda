@@ -3,6 +3,7 @@
 ### 🌿 Deep Learning for Computer Vision
 
 This project leverages deep learning techniques to detect crop diseases in Uganda using computer vision. It involves training a model to classify cassava diseases based on image data.
+request dataset : [Download Dataset](https://www-nisala97.vercel.app/contact)
 
 ### 📌 Project Overview
 
