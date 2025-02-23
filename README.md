@@ -9,11 +9,11 @@ This project leverages deep learning techniques to detect crop diseases in Ugand
 Goal: Develop a deep learning model to identify cassava diseases from leaf images.
 Dataset: Images of cassava leaves labeled with diseases such as:
 
-Cassava Green Mottle (CGM)
-Cassava Bacterial Blight (CBB)
-Cassava Mosaic Disease (CMD)
-Cassava Brown Streak Disease (CBSD)
-Healthy Cassava Leaves
+* Cassava Green Mottle (CGM)
+* Cassava Bacterial Blight (CBB)
+* Cassava Mosaic Disease (CMD)
+* Cassava Brown Streak Disease (CBSD)
+* Healthy Cassava Leaves
 
 Model: Convolutional Neural Networks (CNNs) for image classification
 Frameworks Used: TensorFlow, PyTorch, OpenCV, Matplotlib.
