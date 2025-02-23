@@ -19,3 +19,4 @@ Model: Convolutional Neural Networks (CNNs) for image classification
 Frameworks Used: TensorFlow, PyTorch, OpenCV, Matplotlib.
 
 ![DEMO](/output.png)
+![DEMO](/output1.png)
