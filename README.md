@@ -1,10 +1,10 @@
-Crop Disease in Uganda
+## Crop Disease in Uganda
 
-🌿 Deep Learning for Computer Vision
+### 🌿 Deep Learning for Computer Vision
 
 This project leverages deep learning techniques to detect crop diseases in Uganda using computer vision. It involves training a model to classify cassava diseases based on image data.
 
-📌 Project Overview
+### 📌 Project Overview
 
 Goal: Develop a deep learning model to identify cassava diseases from leaf images.
 Dataset: Images of cassava leaves labeled with diseases such as:
